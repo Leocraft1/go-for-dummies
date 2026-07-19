@@ -1,3 +1,7 @@
+# WARNING! Do NOT use this compiler in ANY production environment and do NOT ship any software compiled just with this. Software may not compile on other systems. This is a TEST ENVIRONMENT COMPILER ONLY! I take no responsibility improper use of this build.
+
+Basically a fork that eliminates "declared and not used" compiling error for variables. I don't f**ng care if this is not recommended, should not be done or is not philosophically correct, i just don't want to die while coding and debugging. This modification does not work with imports.
+
 # The Go Programming Language
 
 Go is an open source programming language that makes it easy to build simple,
